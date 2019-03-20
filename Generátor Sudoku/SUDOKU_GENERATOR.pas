@@ -1,7 +1,5 @@
 { Generování Sudoku }
-{ Štěpán Picek, I. ročník}
 { zimní semestr 2015/16 }
-{ Programování NPRG030 }
 program Sudoku_generator;
 uses Crt;
 var sudoku: array[0..80] of byte;
